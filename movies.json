@@ -1,129 +1,135 @@
 [
     {
-    	"title": "맥신 (MaXXXine)",
-	"poster": "https://m.media-amazon.com/images/M/MV5BNjBmYzFmODktNDIyZC00NWFmLTk2NTctYmZiY2E2OTA2OTc0XkEyXkFqcGc@._V1_FMjpg_UY12000_.jpg",
-	"rating": 2,
-	"date": "2026-04-07",
-	"review": "트릴로지의 막을 이렇게 허무하게..."
+        "title": "퇴마록",
+        "poster": "https://m.media-amazon.com/images/M/MV5BYmVkYTQ3MzktOTY1MS00OTYzLWIxZjctZjdmOWYxN2RjODBhXkEyXkFqcGc@._V1_FMjpg_UY5669_.jpg",
+        "rating": 4,
+        "date": "2025-03-02",
+        "review": "후속편이 나올 수 있으려나? 조금 더 흥행이 되었다면..."
     },
     {
-    	"title": "오디세이",
-	"poster": "https://m.media-amazon.com/images/M/MV5BZmE1OWMxZWUtZTAwYi00MDcwLWEwYzktNWVlODkyNmYxOGMyXkEyXkFqcGc@._V1_FMjpg_UX1080_.jpg",
-	"rating": 5,
-	"date": "2026-10-10",
-	"review": "아킬레우스는 어디에???"
+        "title": "맥신 (MaXXXine)",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNjBmYzFmODktNDIyZC00NWFmLTk2NTctYmZiY2E2OTA2OTc0XkEyXkFqcGc@._V1_FMjpg_UY12000_.jpg",
+        "rating": 2,
+        "date": "2026-04-07",
+        "review": "트릴로지의 막을 이렇게 허무하게..."
     },
     {
-    	"title": "슈퍼맨",
-	"poster": "https://m.media-amazon.com/images/M/MV5BZjViZmQ5ZWQtYTIwNC00ZTY5LWEyZGQtYjA5YTcwMjRlYmNlXkEyXkFqcGc@._V1_FMjpg_UY2479_.jpg",
-	"rating": 4,
-	"date": "2025-07-20",
-	"review": "약하고 코믹해진 슈퍼맨."
+        "title": "오디세이",
+        "poster": "https://m.media-amazon.com/images/M/MV5BZmE1OWMxZWUtZTAwYi00MDcwLWEwYzktNWVlODkyNmYxOGMyXkEyXkFqcGc@._V1_FMjpg_UX1080_.jpg",
+        "rating": 5,
+        "date": "2026-10-10",
+        "review": "아킬레우스는 어디에???"
     },
     {
-    	"title": "미키 17",
-	"poster": "https://m.media-amazon.com/images/M/MV5BYTVjOWQ1YTgtMzQ1NS00MjFkLWJmZjYtMjE0NzA4NmUzNDY5XkEyXkFqcGc@._V1_FMjpg_UY2746_.jpg",
-	"rating": 4,
-	"date": "2025-03-02",
-	"review": "봉 감독님은 시니컬한 게 어울려."
+        "title": "슈퍼맨",
+        "poster": "https://m.media-amazon.com/images/M/MV5BZjViZmQ5ZWQtYTIwNC00ZTY5LWEyZGQtYjA5YTcwMjRlYmNlXkEyXkFqcGc@._V1_FMjpg_UY2479_.jpg",
+        "rating": 4,
+        "date": "2025-07-20",
+        "review": "약하고 코믹해진 슈퍼맨."
     },
     {
-    	"title": "헤어질 결심",
-	"poster": "https://m.media-amazon.com/images/M/MV5BMzA3NWJlZWItYjA2MC00MzMyLTllZDQtODBjYmYwM2FmOGRhXkEyXkFqcGc@._V1_FMjpg_UX1134_.jpg",
-	"rating": 4,
-	"date": "2022-02-17",
-	"review": "난 모르겠다. 저 둘의 감정을..."
+        "title": "미키 17",
+        "poster": "https://m.media-amazon.com/images/M/MV5BYTVjOWQ1YTgtMzQ1NS00MjFkLWJmZjYtMjE0NzA4NmUzNDY5XkEyXkFqcGc@._V1_FMjpg_UY2746_.jpg",
+        "rating": 4,
+        "date": "2025-03-02",
+        "review": "봉 감독님은 시니컬한 게 어울려."
     },
     {
-    	"title": "가여운 것들 (Poor Things)",
-	"poster": "https://m.media-amazon.com/images/M/MV5BMDhlZjc1NmYtMGM4MS00MGMyLWJiNjUtMjc3ZTUwMTI0YzRjXkEyXkFqcGc@._V1_FMjpg_UX898_.jpg",
-	"rating": 5,
-	"date": "2025-01-29",
-	"review": "란티모스식으로 풀어낸 프랑켄슈타인?"
+        "title": "헤어질 결심",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMzA3NWJlZWItYjA2MC00MzMyLTllZDQtODBjYmYwM2FmOGRhXkEyXkFqcGc@._V1_FMjpg_UX1134_.jpg",
+        "rating": 4,
+        "date": "2022-02-17",
+        "review": "난 모르겠다. 저 둘의 감정을..."
     },
     {
-    	"title": "아노라 (Anora)",
-	"poster": "https://m.media-amazon.com/images/M/MV5BYzEzODk5OWEtNGY4NS00YmFhLThjZTUtYzQyZmNmNjRmNzI0XkEyXkFqcGc@._V1_FMjpg_UY2935_.jpg",
-	"rating": 5,
-	"date": "2025-03-13",
-	"review": "프리티 우먼 비틀기?"
+        "title": "가여운 것들 (Poor Things)",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMDhlZjc1NmYtMGM4MS00MGMyLWJiNjUtMjc3ZTUwMTI0YzRjXkEyXkFqcGc@._V1_FMjpg_UX898_.jpg",
+        "rating": 5,
+        "date": "2025-01-29",
+        "review": "란티모스식으로 풀어낸 프랑켄슈타인?"
     },
     {
-    	"title": "One Battle After Another",
-	"poster": "https://m.media-amazon.com/images/M/MV5BZDlmMjM3NGEtODYzNS00YmVmLWJkMTgtMjhmZDNhZmZkZTNmXkEyXkFqcGc@._V1_FMjpg_UX1080_.jpg",
-	"rating": 5,
-	"date": "2025-10-11",
-	"review": "요즘같은 시대에 혁명? 연대가 최선?"
+        "title": "아노라 (Anora)",
+        "poster": "https://m.media-amazon.com/images/M/MV5BYzEzODk5OWEtNGY4NS00YmFhLThjZTUtYzQyZmNmNjRmNzI0XkEyXkFqcGc@._V1_FMjpg_UY2935_.jpg",
+        "rating": 5,
+        "date": "2025-03-13",
+        "review": "프리티 우먼 비틀기?"
     },
     {
-    	"title": "어쩔수가없다",
-	"poster": "https://m.media-amazon.com/images/M/MV5BMTI4NGJlM2ItOTY4Ni00NzY4LWJmMGQtMmM2YjhjNDI2OTIyXkEyXkFqcGc@._V1_FMjpg_UY2143_.jpg",
-	"rating": 5,
-	"date": "2025-10-11",
-	"review": "AI시대의 생존?"
+        "title": "One Battle After Another",
+        "poster": "https://m.media-amazon.com/images/M/MV5BZDlmMjM3NGEtODYzNS00YmVmLWJkMTgtMjhmZDNhZmZkZTNmXkEyXkFqcGc@._V1_FMjpg_UX1080_.jpg",
+        "rating": 5,
+        "date": "2025-10-11",
+        "review": "요즘같은 시대에 혁명? 연대가 최선?"
     },
     {
-    	"title": "Weapons",
-	"poster": "https://m.media-amazon.com/images/M/MV5BNDAxNmNlYmQtMjE2OC00NmQ2LTgzYmItNGRiOTczN2I2MjE0XkEyXkFqcGc@._V1_FMjpg_UY2479_.jpg",
-	"rating": 3,
-	"date": "2025-10-25",
-	"review": "나름..."
+        "title": "어쩔수가없다",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTI4NGJlM2ItOTY4Ni00NzY4LWJmMGQtMmM2YjhjNDI2OTIyXkEyXkFqcGc@._V1_FMjpg_UY2143_.jpg",
+        "rating": 5,
+        "date": "2025-10-11",
+        "review": "AI시대의 생존?"
     },
     {
-    	"title": "극장판 체인소 맨: 레제편",
-	"poster": "https://m.media-amazon.com/images/M/MV5BY2EyZTFkOGYtZDVkMS00MWEyLWIzNzItOTM4ZjA5YjIzNDk4XkEyXkFqcGc@._V1_FMjpg_UY2835_.jpg",
-	"rating": 4,
-	"date": "2025-10-25",
-	"review": "전기톱으로 폭탄을 이길 수 있나?"
+        "title": "Weapons",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNDAxNmNlYmQtMjE2OC00NmQ2LTgzYmItNGRiOTczN2I2MjE0XkEyXkFqcGc@._V1_FMjpg_UY2479_.jpg",
+        "rating": 3,
+        "date": "2025-10-25",
+        "review": "나름..."
     },
     {
-    	"title": "Bugonia",
-	"poster": "https://m.media-amazon.com/images/M/MV5BOWFjZGFmNDctZmQzZi00MGRkLWJmMjUtNjViN2U2MDg0NzlhXkEyXkFqcGc@._V1_FMjpg_UY4096_.jpg",
-	"rating": 3,
-	"date": "2025.11.05",
-	"review": "란티모스도 리메이크는 어렵다?"
+        "title": "극장판 체인소 맨: 레제편",
+        "poster": "https://m.media-amazon.com/images/M/MV5BY2EyZTFkOGYtZDVkMS00MWEyLWIzNzItOTM4ZjA5YjIzNDk4XkEyXkFqcGc@._V1_FMjpg_UY2835_.jpg",
+        "rating": 4,
+        "date": "2025-10-25",
+        "review": "전기톱으로 폭탄을 이길 수 있나?"
     },
     {
-    	"title": "프로젝트 헤일메리",
-	"poster": "https://m.media-amazon.com/images/M/MV5BYzk4Zjc2MjgtYjY5ZS00NTZkLWJiOWUtZGQzMzI4MWU4YjdlXkEyXkFqcGc@._V1_FMjpg_UY2268_.jpg",
-	"rating": 4,
-	"date": "2026.05.16",
-	"review": "지구인과 외계인의 연대?"
+        "title": "Bugonia",
+        "poster": "https://m.media-amazon.com/images/M/MV5BOWFjZGFmNDctZmQzZi00MGRkLWJmMjUtNjViN2U2MDg0NzlhXkEyXkFqcGc@._V1_FMjpg_UY4096_.jpg",
+        "rating": 3,
+        "date": "2025.11.05",
+        "review": "란티모스도 리메이크는 어렵다?"
     },
     {
-    	"title": "호프 (HOPE)",
-	"poster": "https://m.media-amazon.com/images/M/MV5BZWYyNTNiZmEtNTg0NC00ZmZkLTgzZmEtMGM0YjU3ZmExNDM4XkEyXkFqcGc@._V1_FMjpg_UX1050_.jpg",
-	"rating": 4,
-	"date": "2026.07.23",
-	"review": "진격의 거인? 프로메테우스?"
+        "title": "프로젝트 헤일메리",
+        "poster": "https://m.media-amazon.com/images/M/MV5BYzk4Zjc2MjgtYjY5ZS00NTZkLWJiOWUtZGQzMzI4MWU4YjdlXkEyXkFqcGc@._V1_FMjpg_UY2268_.jpg",
+        "rating": 4,
+        "date": "2026.05.16",
+        "review": "지구인과 외계인의 연대?"
     },
     {
-    	"title": "Obsession",
-	"poster": "https://m.media-amazon.com/images/M/MV5BNzlkODE1N2QtODQ5MS00OWNkLWIyYzctNmU5ZjUwZjBkZWE2XkEyXkFqcGc@._V1_FMjpg_UX1016_.jpg",
-	"rating": 4,
-	"date": "2026.09.09",
-	"review": "블룸하우스식 미저리? BGM은 별로."
+        "title": "호프 (HOPE)",
+        "poster": "https://m.media-amazon.com/images/M/MV5BZWYyNTNiZmEtNTg0NC00ZmZkLTgzZmEtMGM0YjU3ZmExNDM4XkEyXkFqcGc@._V1_FMjpg_UX1050_.jpg",
+        "rating": 4,
+        "date": "2026.07.23",
+        "review": "진격의 거인? 프로메테우스?"
     },
     {
-    	"title": "Normal",
-	"poster": "https://m.media-amazon.com/images/M/MV5BOGIyZjgwMzMtODEzZS00YmFlLTg3NmItOWMwYzhlZDBjY2U3XkEyXkFqcGc@._V1_FMjpg_UY2560_.jpg",
-	"rating": 3,
-	"date": "2026.09.10",
-	"review": "불릿트레인이 좀 더 나았으려나?"
+        "title": "Obsession",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNzlkODE1N2QtODQ5MS00OWNkLWIyYzctNmU5ZjUwZjBkZWE2XkEyXkFqcGc@._V1_FMjpg_UX1016_.jpg",
+        "rating": 4,
+        "date": "2026.09.09",
+        "review": "블룸하우스식 미저리? BGM은 별로."
     },
     {
-    	"title": "씨너스: 죄인들 (Sinners)",
-	"poster": "https://m.media-amazon.com/images/M/MV5BYmFmNGRmM2UtY2M0Yy00YTM5LWFmNGItMTYxN2YwMzcyMGIzXkEyXkFqcGc@._V1_FMjpg_UY2860_.jpg",
-	"rating": 5,
-	"date": "2026.06.07",
-	"review": "블루스가 가미된 뱀파이어물. 개취!"
+        "title": "Normal",
+        "poster": "https://m.media-amazon.com/images/M/MV5BOGIyZjgwMzMtODEzZS00YmFlLTg3NmItOWMwYzhlZDBjY2U3XkEyXkFqcGc@._V1_FMjpg_UY2560_.jpg",
+        "rating": 3,
+        "date": "2026.09.10",
+        "review": "불릿트레인이 좀 더 나았으려나?"
     },
     {
-    	"title": "위키드",
-	"poster": "https://m.media-amazon.com/images/M/MV5BN2ZkZmU5MjMtYTM5Mi00OTkwLWEzY2MtNjI5NGJjNDI0MzcyXkEyXkFqcGc@._V1_FMjpg_UY2835_.jpg",
-	"rating": 5,
-	"date": "2026.06.06",
-	"review": "디파잉 그래피티, 최고의 연출!"
+        "title": "씨너스: 죄인들 (Sinners)",
+        "poster": "https://m.media-amazon.com/images/M/MV5BYmFmNGRmM2UtY2M0Yy00YTM5LWFmNGItMTYxN2YwMzcyMGIzXkEyXkFqcGc@._V1_FMjpg_UY2860_.jpg",
+        "rating": 5,
+        "date": "2026.06.07",
+        "review": "블루스가 가미된 뱀파이어물. 개취!"
+    },
+    {
+        "title": "위키드",
+        "poster": "https://m.media-amazon.com/images/M/MV5BN2ZkZmU5MjMtYTM5Mi00OTkwLWEzY2MtNjI5NGJjNDI0MzcyXkEyXkFqcGc@._V1_FMjpg_UY2835_.jpg",
+        "rating": 5,
+        "date": "2026.06.06",
+        "review": "디파잉 그래피티, 최고의 연출!"
     }
-
 ]
